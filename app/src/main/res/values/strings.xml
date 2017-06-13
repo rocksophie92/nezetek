@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NezetekEsXML</string>
+    <string name="exit">Exit</string>
+    <string name="szinez">Change color</string>
+    <string name="Hello">Back</string>
+    <string name="counterNumber">1</string>
+</resources>
